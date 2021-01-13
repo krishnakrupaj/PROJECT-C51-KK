@@ -1,0 +1,54 @@
+h1{
+    color:darkblue
+}
+
+
+.header{
+    background-color:lightskyblue;
+    display:flex;
+    justify-content: space-evenly
+}
+h3,h2{
+    text-align: center;
+    background-color: #ec0082;
+    color: #fca7d6;
+}
+p{
+    color: lightskyblue;
+}
+.kk1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+body{
+    margin: 0px;
+    background-color: #6b01f5;
+}
+.au{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between ;
+}
+.fua{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+.fa{
+    background-color:#954af7 ;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.p{
+    color: mediumspringgreen;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between ;
+}
+.b{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
